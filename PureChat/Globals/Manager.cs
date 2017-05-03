@@ -1,10 +1,10 @@
 ﻿using System;
+using Xamarin.Forms;
+
 namespace PureChat
 {
-	public class LogIn
+	static public class Manager
 	{
-		public LogIn()
-		{
-		}
+		
 	}
 }

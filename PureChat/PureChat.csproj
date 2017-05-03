@@ -46,6 +46,9 @@
       <DependentUpon>LoginPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Globals\Globals.cs" />
+    <Compile Include="Globals\Manager.cs" />
+    <Compile Include="Controllers\AccountDataSet.cs" />
+    <Compile Include="Controllers\Commons.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
@@ -64,7 +67,7 @@
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="View\" />
-    <Folder Include="Controller\" />
+    <Folder Include="Controllers\" />
     <Folder Include="Globals\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
