@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{BEF8B60C-BA3E-4249-A15E-DCF59446F0E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datalayer/AccountDataSet.cs">
+    <Files>
+      <File FileName="View/LoginPage.xaml.cs" Line="11" Column="4" />
+      <File FileName="Globals/Manager.cs" Line="10" Column="25" />
+      <File FileName="Datalayer/Commons.cs" Line="20" Column="33" />
+      <File FileName="Server/Listener.cs" Line="114" Column="20" />
+      <File FileName="Server/User.cs" Line="35" Column="1" />
+      <File FileName="Datalayer/AccountDataSet.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PureChat" expanded="True">
+            <Node name="Datalayer" expanded="True">
+              <Node name="AccountDataSet.cs" selected="True" />
+            </Node>
+            <Node name="PureChat" expanded="True">
+              <Node name="Globals" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="LoginPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Server" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PureChat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PureChat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2DFE578C-C861-486A-AAD9-E3BC0B6E9AF2" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../Droid/PureChat.Droid.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.delete PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

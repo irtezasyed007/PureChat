@@ -1,0 +1,10 @@
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/obj/Debug/Server.Listener.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/bin/Debug/Server.pdb
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/bin/Debug/Server.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/obj/Debug/Server.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/obj/Debug/Server.pdb
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/bin/Debug/Datalayer.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/bin/Debug/MySql.Data.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/bin/Debug/Server.exe
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Server/obj/Debug/Server.exe

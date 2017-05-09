@@ -1,0 +1,9 @@
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/bin/Debug/Datalayer.dll.config
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/bin/Debug/Datalayer.pdb
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/bin/Debug/Datalayer.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/obj/Debug/Datalayer.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/obj/Debug/Datalayer.pdb
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/bin/Debug/EntityFramework.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/bin/Debug/EntityFramework.SqlServer.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/Datalayer/bin/Debug/MySql.Data.dll

@@ -1,0 +1,15 @@
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.App.xaml
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.PureChatPage.xaml
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.View.LoginPage.xaml
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.Controllers.Program.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.App.xaml.g.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.PureChatPage.xaml.g.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.View.LoginPage.xaml.g.cs
+/Users/omarahmed/Downloads/PureChat-master/PureChat/bin/Debug/PureChat.dll.config
+/Users/omarahmed/Downloads/PureChat-master/PureChat/bin/Debug/PureChat.pdb
+/Users/omarahmed/Downloads/PureChat-master/PureChat/bin/Debug/PureChat.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/obj/Debug/PureChat.pdb
+/Users/omarahmed/Downloads/PureChat-master/PureChat/bin/Debug/Datalayer.dll
+/Users/omarahmed/Downloads/PureChat-master/PureChat/bin/Debug/MySql.Data.dll
